@@ -1,6 +1,6 @@
 # FlickingSoccer
 
-![]()
+![](https://github.com/Table-Soccer-Game/FlickingSoccer/blob/master/preview.png)
 
 Flicking soccer is an very interesting tabletop-soccer game.
 In a limited period of time, you have three action opportunities to win more goals than your opponent.
